@@ -1,0 +1,154 @@
+{
+    "anytime": [
+        "¡Hola guapo!",
+        "¡Espero que tu día sea tan impresionante como tú!",
+        "Se nota que has estado cuidándote, ¿has estado haciendo ejercicio?",
+        "¡Si pudiera, te daría los cinco ahora mismo!",
+        "Recuerda que la Fuerza está contigo",
+        "¡En una escala del 1 al 10, eres un 15!",
+        "Hacer que todo parezca fácil es tu talento",
+        "Eres una inspiración, amigo mío",
+        "No puedo evitar notar lo bien que te ves hoy",
+        "¿Sabes? Siempre es un placer verte",
+        "¡Vaya, te ves muy bien!",
+        "No hay duda, tienes un estilo único",
+        "La confianza te queda bien",
+        "No hay lugar como el hogar, y tú lo iluminas",
+        "El mundo es tu ostra, ¡atrévete a conquistarlo!",
+        "No subestimes tu capacidad para cambiar el día de alguien",
+        "Cada día contigo es una nueva aventura",
+        "Tu energía positiva es contagiosa",
+        "Los retos son solo oportunidades esperando ser aprovechadas por alguien como tú",
+        "Eres la definición de alguien con determinación",
+        "Las sonrisas se iluminan cuando entras en la habitación",
+        "Hay algo en ti que siempre motiva a los demás",
+        "Tu voz tiene el don de tranquilizar",
+        "Eres el tipo de persona que deja huella",
+        "Gracias por ser tú, no cambies nunca",
+        "Con cada paso que das, marcas diferencia",
+        "Nunca dejes que nada opaque tu brillo",
+        "Hay algo en ti que ilumina cada espacio",
+        "Tu actitud contagia positividad",
+        "Sigue siendo ese ser increíble que eres hoy"
+    ],
+    "morning": [
+        "¡Buenos días, sol!",
+        "¿Listo para enfrentar el día con esa energía que te caracteriza?",
+        "¡Despierta, campeón! Hoy es otro día para brillar",
+        "¿Quién necesita café cuando tiene tu vitalidad?",
+        "El mundo te espera, ¡vamos a por ello!",
+        "Un nuevo día, una nueva oportunidad para brillar",
+        "El mundo está listo para ser conquistado, ¡adelante!",
+        "Cada amanecer trae nuevas posibilidades, ¡aprovéchalas!"
+    ],
+    "afternoon": [
+        "¡Sigues con esa energía inagotable!",
+        "Tu determinación es admirable, ¡sigue así!",
+        "Aunque sea tarde, tu brillo no disminuye en absoluto",
+        "A mitad de día y sigues irradiando energía",
+        "¡Qué tarde más increíble para alguien como tú!"
+    ],
+    "evening": [
+        "Después de un largo día, sigues luciendo impecable",
+        "A medida que el día termina, tu impacto sigue siendo evidente",
+        "Espero que tengas una noche tan brillante como tu día",
+        "Relájate, te lo mereces",
+        "Duerme bien, mañana es otro día para conquistar",
+        "Que las estrellas guíen tus sueños esta noche",
+        "Espero que esta noche encuentres el descanso que mereces"
+    ],
+    "snow": [
+        "¡El invierno ha llegado! ¿Listo para una batalla de bolas de nieve?",
+        "Esas botas te quedan perfectas para la nieve",
+        "El blanco del invierno contrasta con tu calor interior",
+        "Disfruta de la magia que trae la nieve"
+    ],
+    "day_sunny": [
+        "El sol brilla, pero no tan brillante como tú",
+        "Es un hermoso día, ¡aprovecha!",
+        "Perfecto para lucir esas gafas de sol",
+        "El día está tan radiante como tu actitud",
+        "El clima soleado parece haberse inspirado en ti",
+        "Toma un momento para disfrutar del calor del sol",
+        "Nada como un día soleado para animar el espíritu"
+    ],
+    "day_cloudy": [
+        "Aunque esté nublado, tu actitud ilumina el día",
+        "El sol siempre brilla, a veces solo está detrás de las nubes. ¡Igual que las oportunidades!",
+        "Un poco de sombra nunca ha detenido a alguien como tú",
+        "Las nubes pueden cubrir el sol, pero no tu energía",
+        "Aunque no veas el sol, siempre está ahí, igual que tu esencia"
+    ],
+    "cloudy": [
+        "El cielo está nublado, pero eso no impide que brilles",
+        "No importa cuán gris esté el cielo, tú siempre aportas color",
+        "Deja que las nubes sean un recordatorio de que todo pasa",
+        "Incluso en días nublados, tu luz brilla fuerte"
+    ],
+    "cloudy_windy": [
+        "El viento sopla, pero tú permaneces firme",
+        "Perfecto para dejar que el viento juegue con tu cabello",
+        "El viento trae consigo cambios y nuevas oportunidades",
+        "Deja que el viento renueve tus energías"
+    ],
+    "showers": [
+        "Las duchas refrescan el ambiente, ¡disfruta de la frescura!",
+        "Que la lluvia te refresque y te dé energía nueva",
+        "Cada gota es una bendición, ¡siente la lluvia!",
+        "Disfruta de la sensación refrescante que las duchas traen"
+    ],
+    "rain": [
+        "Un poco de lluvia limpia el aire y trae renovación",
+        "Cada gota de lluvia refresca el mundo, igual que tú",
+        "Perfecto para disfrutar de un café y ver caer la lluvia",
+        "La lluvia renueva todo a su paso, igual que tú cada día",
+        "Deja que cada gota de lluvia llene de vida tus momentos"
+    ],
+    "thunderstorm": [
+        "Las tormentas traen cambio, y tú eres un maestro del cambio",
+        "No te preocupes, después de la tormenta siempre viene la calma",
+        "Las tormentas son temporales, pero tu esencia es eterna",
+        "Cada trueno es un recordatorio de la fuerza de la naturaleza, y tú eres igual de poderoso"
+    ],
+    "fog": [
+        "La niebla crea un ambiente misterioso, ¡disfruta del encanto!",
+        "El camino puede estar nublado, pero tu dirección es clara",
+        "Aunque todo parezca nublado, tu camino siempre estará claro",
+        "La niebla es misteriosa, pero tu determinación es clara como el agua"
+    ],
+    "night_clear": [
+        "Las estrellas brillan, pero tú iluminas la noche",
+        "Bajo este cielo claro, recuerda que el mundo es tuyo",
+        "Bajo la manta de estrellas, tus sueños son infinitos",
+        "Aprovecha la claridad de la noche para reflexionar y descansar"
+    ],
+    "night_cloudy": [
+        "La noche es tranquila, el momento perfecto para reflexionar",
+        "Aunque las nubes oculten las estrellas, tu luz sigue siendo evidente",
+        "La oscuridad y las nubes no pueden opacar tu luz interna",
+        "Noches nubladas son perfectas para descansar y soñar"
+    ],
+    "night_showers": [
+        "El sonido de la lluvia nocturna es una melodía tranquila, disfruta del momento",
+        "La noche y la lluvia combinan a la perfección, al igual que tú y tus logros",
+        "Deja que la lluvia nocturna limpie tus preocupaciones",
+        "Nada como el sonido de la lluvia para tener una noche tranquila"
+    ],
+    "night_rain": [
+        "Deja que el sonido de la lluvia te arrulle",
+        "La lluvia nocturna trae sueños pacíficos",
+        "La lluvia en la noche trae paz y serenidad",
+        "Que el ritmo de la lluvia te arrulle y te lleve a dulces sueños"
+    ],
+    "night_thunderstorm": [
+        "El poder de la naturaleza se muestra en las tormentas, al igual que tu potencial en cada desafío",
+        "Después de la tormenta, siempre hay un cielo claro",
+        "Aunque retumbe el trueno, tu tranquilidad y fuerza son inquebrantables",
+        "Que la tormenta de esta noche traiga claridad mañana"
+    ],
+    "night_alt_cloudy_windy": [
+        "El susurro del viento bajo la noche nublada tiene su encanto",
+        "Siente el viento de la noche y renuévate para el día que viene",
+        "El viento y las nubes danzan en el cielo nocturno, al igual que tus sueños"
+    ]
+}
